@@ -1,0 +1,15 @@
+{
+  "name": "Safe Space Station",
+  "short_name": "Orbit",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050814",
+  "theme_color": "#050814",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
